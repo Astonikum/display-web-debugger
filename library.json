@@ -1,0 +1,10 @@
+{
+  "name": "MadDisplayWebDebugger",
+  "version": "0.2.0",
+  "description": "Native C++ web debugger for MadDisplay readable buffers.",
+  "frameworks": "native",
+  "platforms": "*",
+  "dependencies": {
+    "MadDisplay": "https://github.com/Astonikum/display-lib.git#v0.7.0"
+  }
+}
